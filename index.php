@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -27,7 +26,7 @@
             </select>
             <img
                 src="images/plus.png"
-                alt="+"
+                alt="Adicionar"
                 id="AddUpdateClick"
                 onclick="CreateToDoItems();"
             />
